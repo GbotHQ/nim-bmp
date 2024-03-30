@@ -1,2 +1,2 @@
 # Nim BMP
- A simple BMP image encoder and decoder
+ A simple (and incomplete) BMP image encoder and decoder written in nim
